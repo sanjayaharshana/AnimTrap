@@ -4,7 +4,7 @@
     <title> SourceWallet Dev </title>
     <meta name"Software Development Solutions" "Sri Lanken Best Software/Web Development Solutions">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="css/animtrap.css" rel="stylesheet">
+    <link href="css/animtrap-bin.css" rel="stylesheet">
 </head>
 
 <body>
@@ -16,6 +16,9 @@
         kfdjlfkjd
     </div>
 </body>
+
+<div class="anim-lightning-normal" style="background: url('o.jpg');"></div>
+<div class="anim-lightning-flash doing" style="background: url('o.jpg');"></div>
 
 <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
 
