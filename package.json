@@ -1,0 +1,28 @@
+{
+  "name": "animtrap",
+  "version": "1.0.0",
+  "description": "\u0016AnimTrap is a CSS Framework for animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/Chamuth/AnimTrap/"
+  },
+  "keywords": [
+    "animation",
+    "css3",
+    "front-end-development"
+  ],
+  "author": "sanjayaharshana",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}

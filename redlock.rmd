@@ -1,0 +1,5 @@
+#renmo 
+SET ORIAL/API/GRATELOC
+SET ARIAL/MARAGE
+ERT /app/config/js
+ERT /app/config/css
