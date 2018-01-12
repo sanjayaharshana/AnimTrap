@@ -1,7 +1,9 @@
 const gulp = require("gulp");
 const sass = require("gulp-sass");
-const minify = require('gulp-minify-css'); //minifies css
-const rename = require('gulp-rename');
+const minify = require("gulp-minify-css"); 
+const rename = require("gulp-rename");
+const concat = require("gulp-concat");
+const uglify = require("gulp-uglify");
 
 
 // Transpiling the sass files to beauty versions
@@ -15,7 +17,7 @@ gulp.task("sass", function()
 });
 
 // Transpiling the css to minified versions
-gulp.task("sass-minified", function()
+gulp.task("sass-minify", function()
 {
 	return gulp
 		.src("src/scss/animtrap.scss")
@@ -26,9 +28,30 @@ gulp.task("sass-minified", function()
 });
 
 
+// Compile the JavaScript files
+gulp.task("js-concat", function() 
+{
+	return gulp
+		.src("src/js/*.js")
+		.pipe(concat("anim-scroll.js"))
+		.pipe(gulp.dest("dist/js/"));
+});
+
+
+// Minify the JavaScript files
+gulp.task("js-minify", function()
+{
+	return gulp
+		.src("src/js/*.js")
+		.pipe(concat("anim-scroll.min.js"))
+		.pipe(uglify())
+		.pipe(gulp.dest("dist/js/"));
+})
+
 // Task to call in devtime
 gulp.task("watch", function() 
 {
 	// Watch for file changes and run sass
-	gulp.watch("src/**/*.scss", ["sass", "sass-minified"]);
+	gulp.watch("src/**/*.scss", ["sass", "sass-minify"]);
+	gulp.watch("src/**/*.js", ["js-concat", "js-minify"]);
 });
