@@ -12,7 +12,7 @@ const uglify = require("gulp-uglify");
 gulp.task("sass", () => 
 {
 	return gulp
-		.src("src/scss/animtrap.scss")
+		.src("src/sass/animtrap.scss")
 		.pipe(sass())
 		.pipe(rename("animtrap.css"))
 		.pipe(gulp.dest("dist/css/"))
@@ -22,7 +22,7 @@ gulp.task("sass", () =>
 gulp.task("sass-minify", () => 
 {
 	return gulp
-		.src("src/scss/animtrap.scss")
+		.src("src/sass/animtrap.scss")
 		.pipe(sass({ style: "compressed" }))
 		.pipe(minify())
 		.pipe(rename("animtrap.min.css"))
