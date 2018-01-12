@@ -1,3 +1,5 @@
+'use strict';
+
 const gulp = require("gulp");
 const sass = require("gulp-sass");
 const minify = require("gulp-minify-css"); 
@@ -7,7 +9,7 @@ const uglify = require("gulp-uglify");
 
 
 // Transpiling the sass files to beauty versions
-gulp.task("sass", function()
+gulp.task("sass", () => 
 {
 	return gulp
 		.src("src/scss/animtrap.scss")
@@ -17,7 +19,7 @@ gulp.task("sass", function()
 });
 
 // Transpiling the css to minified versions
-gulp.task("sass-minify", function()
+gulp.task("sass-minify", () => 
 {
 	return gulp
 		.src("src/scss/animtrap.scss")
@@ -29,7 +31,7 @@ gulp.task("sass-minify", function()
 
 
 // Compile the JavaScript files
-gulp.task("js-concat", function() 
+gulp.task("js-concat", () =>  
 {
 	return gulp
 		.src("src/js/*.js")
@@ -39,7 +41,7 @@ gulp.task("js-concat", function()
 
 
 // Minify the JavaScript files
-gulp.task("js-minify", function()
+gulp.task("js-minify", () => 
 {
 	return gulp
 		.src("src/js/*.js")
@@ -49,7 +51,7 @@ gulp.task("js-minify", function()
 })
 
 // Task to call in devtime
-gulp.task("watch", function() 
+gulp.task("watch", () =>  
 {
 	// Watch for file changes and run sass
 	gulp.watch("src/**/*.scss", ["sass", "sass-minify"]);
