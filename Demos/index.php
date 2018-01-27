@@ -41,29 +41,225 @@
 <div class="row">
     <div class="container">
         <div class="col-sm-4">
+            <div class="animscroll-item" data-animscroll="fade-up">
             <div class="anim-hover-float">
                 <h4>What is the AnimTrap</h4><br>
                 <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
             </div>
             <a class="btn btn-primary" href="" role="button">Learn More</a>
+            </div>
         </div>
         <div class="col-sm-4">
             <div class="anim-hover-float">
+                <div class="animscroll-item" data-animscroll="fade-up">
                 <h4>Best Animation Demo</h4><br>
                 <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                    <a class="btn btn-primary" href="" role="button">Learn More</a>
+                </div>
+
             </div>
-            <a class="btn btn-primary" href="" role="button">Learn More</a>
         </div>
+
+
 
         <div class="col-sm-4">
             <div class="anim-hover-float">
+                <div class="animscroll-item" data-animscroll="fade-up">
                 <h4>Showcase</h4><br>
                 <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                </div>
+                <a class="btn btn-primary" href="" role="button">Learn More</a>
+            </div>
             </div>
         </div>
     </div>
 
+
+
+<div class="row">
+    <div class="container">
+        <div class="col-sm-4">
+            <div class="animscroll-item" data-animscroll="fade-up">
+                <div class="anim-hover-float">
+                    <h4>What is the AnimTrap</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                </div>
+                <a class="btn btn-primary" href="" role="button">Learn More</a>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="anim-hover-float">
+                <div class="animscroll-item" data-animscroll="fade-up">
+                    <h4>Best Animation Demo</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                    <a class="btn btn-primary" href="" role="button">Learn More</a>
+                </div>
+
+            </div>
+        </div>
+
+
+
+        <div class="col-sm-4">
+            <div class="anim-hover-float">
+                <div class="animscroll-item" data-animscroll="fade-up">
+                    <h4>Showcase</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                </div>
+                <a class="btn btn-primary" href="" role="button">Learn More</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="container">
+        <div class="col-sm-4">
+            <div class="animscroll-item" data-animscroll="fade-up">
+                <div class="anim-hover-float">
+                    <h4>What is the AnimTrap</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                </div>
+                <a class="btn btn-primary" href="" role="button">Learn More</a>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="anim-hover-float">
+                <div class="animscroll-item" data-animscroll="fade-up">
+                    <h4>Best Animation Demo</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                    <a class="btn btn-primary" href="" role="button">Learn More</a>
+                </div>
+
+            </div>
+        </div>
+
+
+
+        <div class="col-sm-4">
+            <div class="anim-hover-float">
+                <div class="animscroll-item" data-animscroll="fade-up">
+                    <h4>Showcase</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                </div>
+                <a class="btn btn-primary" href="" role="button">Learn More</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="container">
+        <div class="col-sm-4">
+            <div class="animscroll-item" data-animscroll="fade-up">
+                <div class="anim-hover-float">
+                    <h4>What is the AnimTrap</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                </div>
+                <a class="btn btn-primary" href="" role="button">Learn More</a>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="anim-hover-float">
+                <div class="animscroll-item" data-animscroll="fade-up">
+                    <h4>Best Animation Demo</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                    <a class="btn btn-primary" href="" role="button">Learn More</a>
+                </div>
+
+            </div>
+        </div>
+
+
+
+        <div class="col-sm-4">
+            <div class="anim-hover-float">
+                <div class="animscroll-item" data-animscroll="fade-up">
+                    <h4>Showcase</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                </div>
+                <a class="btn btn-primary" href="" role="button">Learn More</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="container">
+        <div class="col-sm-4">
+            <div class="animscroll-item" data-animscroll="fade-up">
+                <div class="anim-hover-float">
+                    <h4>What is the AnimTrap</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                </div>
+                <a class="btn btn-primary" href="" role="button">Learn More</a>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="anim-hover-float">
+                <div class="animscroll-item" data-animscroll="fade-up">
+                    <h4>Best Animation Demo</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                    <a class="btn btn-primary" href="" role="button">Learn More</a>
+                </div>
+
+            </div>
+        </div>
+
+
+
+        <div class="col-sm-4">
+            <div class="anim-hover-float">
+                <div class="animscroll-item" data-animscroll="fade-up">
+                    <h4>Showcase</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                </div>
+                <a class="btn btn-primary" href="" role="button">Learn More</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="container">
+        <div class="col-sm-4">
+            <div class="animscroll-item" data-animscroll="fade-up">
+                <div class="anim-hover-float">
+                    <h4>What is the AnimTrap</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                </div>
+                <a class="btn btn-primary" href="" role="button">Learn More</a>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="anim-hover-float">
+                <div class="animscroll-item" data-animscroll="fade-up">
+                    <h4>Best Animation Demo</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                    <a class="btn btn-primary" href="" role="button">Learn More</a>
+                </div>
+
+            </div>
+        </div>
+
+
+
+        <div class="col-sm-4">
+            <div class="anim-hover-float">
+                <div class="animscroll-item" data-animscroll="fade-up">
+                    <h4>Showcase</h4><br>
+                    <p>SourceWallet Dev is a boutique outsourcing company offering a full range of custom software development services for a wide variety of verticals and business domains.Whether you are a start-up or an established business, we will be happy to assist you at any and every stage of the software development life cycle: from conceptualization, business analysis and prototyping to the development and deployment of a complete solution.</p>
+                </div>
+                <a class="btn btn-primary" href="" role="button">Learn More</a>
+            </div>
+        </div>
+    </div>
+</div>
+
 </body>
+
 
 </html>
 
@@ -71,16 +267,15 @@
 
 
 
-<script>
-    ANIMSCROLL.init({
-        offset: 200,
-        duration: 600,
-        easing: 'ease-in-sine',
-        delay: 100,
-    });
-</script>
 
 
 
 <script src="extranal_css/jquery.min.js"></script>
+<script src="extranal_css/anim-effect.js"></script>
 <script src="extranal_css/anim-scroll.js"></script>
+
+<script>
+    ANIMSCROLL.init({
+        easing: 'ease-in-out-sine'
+    });
+</script>
