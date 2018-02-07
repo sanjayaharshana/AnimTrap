@@ -15,7 +15,7 @@
 - Install with [npm](https://www.npmjs.com/): `npm install animtrap` (Coming soon)
 - Install with [yarn](https://yarnpkg.com/): `yarn add animtrap` (Coming soon)
 
-<p>If you want a quick demo, you can check it out <a href="http://sourcewalletdev.com/AnimTrap/Demos/">here</a></p>
+<p>If you want a quick demo, you can check it out <a href="http://sanjayaharshana.github.io/AnimTrap/Demos/">here</a></p>
 
 
 <h4>What's Included</h4>
