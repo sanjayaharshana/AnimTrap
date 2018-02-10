@@ -35,4 +35,10 @@ dist/
 <h4>Open Source Contributing</h4>
 
 <p>We are always looking for quality contributors and will be happy to accept your Pull Requests as long as those adhere to some basic rules:</p>
+
+- Please make sure that your contribution fits well in the project's context:
+    - we are aiming at rebuilding animtrap directives in pure CSS, without any dependencies on any external JavaScript library;
+    - the only dependency should be animtrap CSS and its markup structure;
+- Please assure that you are submitting quality code, specifically make sure that:
+    - your directive has accompanying tests and all the tests are passing; don't hesitate to contact us (animtrapdev@googlegroups.com) if you need any help with unit testing
 <p>Let's animate to animate, together!</p>
