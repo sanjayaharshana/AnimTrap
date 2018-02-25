@@ -43,4 +43,4 @@ dist/
     - your directive has accompanying tests and all the tests are passing; don't hesitate to contact us (animtrapdev@googlegroups.com) if you need any help with unit testing
 <p>Let's animate to animate, together!</p>
 
-[View Wiki Page](https://github.com/sanjayaharshana/AnimTrap/Wiki)
+[View Wiki Page](https://github.com/sanjayaharshana/AnimTrap/wiki)
