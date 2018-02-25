@@ -1,16 +1,10 @@
-
-
 (function ( $ ) {
 
-    $.fn.rain = function( options ) {
-        $( document ).ready(function() {
-        });
-        $( ".inner" ).append('<div style="color: white;"> sdas</div>');
-
+    $.fn.makeitsRain = function( options ) {
         // This is the easiest way to have default options.
         var settings = $.extend({
             // These are the defaults.
-            raintype: "drops",
+            color: "#556b2f",
             backgroundColor: "white"
         }, options );
 
@@ -38,12 +32,8 @@
 
             $('.rain.front-row').append(drops);
             $('.rain.back-row').append(backDrops);
-        }
-        $( "<p>Test</p>" ).insertAfter( ".inner" );
-        makeItRain();
-
-    };
-
-}( jQuery ));
+            makeItRain();
+        };
+    }( jQuery )};
 
 
