@@ -1,6 +1,6 @@
 (function ( $ ) {
 
-    $.fn.makeitsRain = function( options ) {
+    
 
         // This is the easiest way to have default options.
         var settings = $.extend({
