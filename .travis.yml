@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+- 'stable'
+sudo: true
+cache:
+  directories:
+    - node_modules
+after_success:
+- yarn run build

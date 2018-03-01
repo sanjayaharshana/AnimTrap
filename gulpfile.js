@@ -6,7 +6,14 @@ const minify = require("gulp-minify-css");
 const rename = require("gulp-rename");
 const concat = require("gulp-concat");
 const uglify = require("gulp-uglify");
+const clean = require("gulp-clean");
+const runSequence = require("run-sequence").use(gulp);
 
+gulp.task("clean", () => {
+	return gulp
+			.src('./dist/*', {read: false})
+			.pipe(clean())
+})
 
 // Transpiling the sass files to beauty versions
 gulp.task("sass", () => 
@@ -34,9 +41,9 @@ gulp.task("sass-minify", () =>
 gulp.task("js-concat", () =>  
 {
 	return gulp
-		.src("src/js/*.js")
-		.pipe(concat("anim-scroll.js"))
-		.pipe(gulp.dest("dist/js/"));
+		.src("./src/js/*.js")
+		.pipe(concat('anim-trap.js'))
+		.pipe(gulp.dest("./dist/js/"));
 });
 
 
@@ -44,10 +51,10 @@ gulp.task("js-concat", () =>
 gulp.task("js-minify", () => 
 {
 	return gulp
-		.src("src/js/*.js")
-		.pipe(concat("anim-scroll.min.js"))
+		.src("./dist/js/anim-trap.js")
 		.pipe(uglify())
-		.pipe(gulp.dest("dist/js/"));
+		.pipe(rename('anim-trap.min.js'))
+		.pipe(gulp.dest("dist/js"));
 })
 
 // Task to call in devtime
@@ -56,4 +63,8 @@ gulp.task("watch", () =>
 	// Watch for file changes and run sass
 	gulp.watch("src/**/*.scss", ["sass", "sass-minify"]);
 	gulp.watch("src/**/*.js", ["js-concat", "js-minify"]);
+});
+
+gulp.task("build", (cb) => {
+	runSequence("clean", "sass", "sass-minify", "js-concat", "js-minify", cb)
 });
