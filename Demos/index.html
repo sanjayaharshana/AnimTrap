@@ -4,7 +4,7 @@
     <title>AnimTrap Lightning</title>
     <meta name"Software Development Solutions" "Sri Lanken Best Software/Web Development Solutions">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="external_css/animtrap.css" rel="stylesheet">
+    <link href="../dist/css/animtrap.css" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 
@@ -286,11 +286,15 @@
   src="https://code.jquery.com/jquery-3.3.1.min.js"
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
-<script src="external_css/anim-effect.js"></script>
-<script src="external_css/anim-scroll.js"></script>
+<script src="../dist/js/anim-trap.js"></script>
+<script src="../dist/js/anim-scroll.js"></script>
 
 <script>
     ANIMSCROLL.init({
         easing: 'ease-in-out-sine'
+    });
+
+    $(document).ready(function(){
+        $('.rain').makeitsRain()
     });
 </script>
