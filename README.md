@@ -1,4 +1,4 @@
-# AnimTrap
+# AnimTrap [![Build Status](https://travis-ci.org/sanjayaharshana/AnimTrap.svg?branch=master)](https://travis-ci.org/sanjayaharshana/AnimTrap)
 
 <h4>What is AnimTrap?</h4>
 
