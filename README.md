@@ -1,4 +1,6 @@
 # AnimTrap [![Build Status](https://travis-ci.org/sanjayaharshana/AnimTrap.svg?branch=master)](https://travis-ci.org/sanjayaharshana/AnimTrap)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)  
+
 
 <h4>What is AnimTrap?</h4>
 
