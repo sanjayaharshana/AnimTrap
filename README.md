@@ -1,4 +1,4 @@
-# AnimTrap [![Build Status](https://travis-ci.org/sanjayaharshana/AnimTrap.svg?branch=master)](https://travis-ci.org/sanjayaharshana/AnimTrap) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)    
+# AnimTrap [![Build Status](https://travis-ci.org/sanjayaharshana/AnimTrap.svg?branch=master)](https://travis-ci.org/sanjayaharshana/AnimTrap) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
 
 
 
@@ -47,3 +47,5 @@ dist/
 <p>Let's animate to animate, together!</p>
 
 [View Wiki Page](https://github.com/sanjayaharshana/AnimTrap/wiki)
+
+Skytrone_bash
