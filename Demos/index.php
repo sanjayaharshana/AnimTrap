@@ -15,26 +15,7 @@
 
 <!-- Navbar Layer-->
 <nav class="navbar navbar-inverse navbar-static-top marginBottom-0" style="background: url('mwe.png'); background-size: auto">
-    <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-        </button>
-
-    </div>
-
-    <div class="collapse navbar-collapse text-center" id="navbar-collapse-1">
-        <ul class="nav navbar-nav">
-            <li class=""><a href="#">AnimTrap Download</a></li>
-            <li><a href="#1">Contrubtion</a></li>
-            <li><a href="#2">Demo Samples</a></li>
-            <li><a href="#3">Documentation </a></li>
-            <li><a href="#4">Suppoted for </a></li>
-            <li><a href="#9">About Us</a></li>
-        </ul>
-    </div>
+  
 </nav>
 
 
